@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Earn - Learn to Make Money Online</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #f5f6fa;
+      color: #2f3640;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #273c75;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #40739e;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .content {
+      padding: 20px;
+    }
+    article {
+      background: white;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 10px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #273c75;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+    button {
+      background: #44bd32;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Smart Earn 💸</h1>
+    <p>Learn Easy Ways to Make Money Online</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Tips</a>
+    <a href="#">Affiliate Links</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="content">
+    <article>
+      <h2>💡 How to Earn Money as a Teen</h2>
+      <p>You can start by learning coding, freelancing, or content creation. Once your website grows, you can apply for Google AdSense or share affiliate links to earn money.</p>
+      <button onclick="alert('Start learning today!')">Start Now</button>
+    </article>
+
+    <article>
+      <h2>📱 Best Free Apps to Learn Coding</h2>
+      <ul>
+        <li>Spck Editor (make websites)</li>
+        <li>SoloLearn (learn HTML, CSS, JS)</li>
+        <li>Grasshopper (for beginners)</li>
+      </ul>
+    </article>
+  </div>
+
+  <footer>
+    <p>© 2025 Smart Earn | Built by [Your Name]</p>
+  </footer>
+</body>
+</html>
